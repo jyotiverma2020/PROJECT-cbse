@@ -1,0 +1,56 @@
+CBSE SITE/JAVA PROJECT
+* BRIEF PROJECT
+* HOW IT WORKS?
+* TECHNOLOGY USED 
+* SOFTWARE USED
+1. Brief About Project
+* This project represents the same scenario where students do check their results on some official site after their 10th or 12th board.
+Student (part):-
+* So ,it’s the server based project where student have to fill his/her name and unique id(which school has provided them)and after clicking on submit button ,they can view their overall result.
+Admin (part):-
+*  Admin have access to view all student details and marks ,but before that admin also have to go through admin login criteria .If he /she is the true admin only then can perform their action.
+2. How it works?
+The working is defined in following steps for the better understanding.
+Step 1:- Home Page will  occur as shown below.   
+
+There is three links provided. Student have to click on first link ( i.e. Student Login Page) . Then just fill the required details and click on submit button to view your marksheet.
+
+
+
+Step 2:-If you have entered wrong details it will take you to again login page by saying "User InValid..please fill your correct details" .
+
+
+
+Step 3:- If student directly approach to see the marksheet  by clicking on 2nd link ,then link will direct student to the login page. After login procedure, only then student can check their marks .
+
+
+
+Step 4:-Third link is for admin one. On clicking of that link , admin has to  first go though Admin login criteria .And then by clicking on submit button admin can view all student details.
+
+Step 5:-IF Admin has correctly login with all his/her correct details ,then clicking on submit button all the details of student will appear.
+
+
+
+3. Technology Used
+* Back-End Development
+* Java [JDK 8+]
+* JDBC
+* Servlet
+* SQL
+* Apache Tomcat server
+* Oracle 10g Database
+* Front-End Development:
+* Html.
+* Javascript
+4. Software Used
+* Oracle 10g
+* Eclipse [Enterprise Edition]
+* Java [JDK 8+]
+* Tomcat v8.0+
+* Apache Tomcat (9)
+5.Dummy Database used
+
+
+
+Project by :- JYOTI VERMA
+Thank you!!
